@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+tweepy
+slack-sdk
+firebase-admin
+transformers
+torch
+yfinance
+matplotlib
+python-dotenv

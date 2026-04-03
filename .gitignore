@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv
+venv/
+ENV/
+.env
+
+# Credentials
+*.json
+!core/.env.example
